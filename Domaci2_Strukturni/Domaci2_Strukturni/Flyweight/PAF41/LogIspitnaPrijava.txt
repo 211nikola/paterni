@@ -1,0 +1,68 @@
+Datum:Wed Dec 05 16:48:11 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:48:11 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:51, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:51:49 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:51:49 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:52, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:52:46 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:52, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 16:52:48 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:52, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.
+Datum:Wed Dec 05 16:52:48 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:53, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:52:49 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:53, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.
+Datum:Wed Dec 05 16:52:49 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:0, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem ne moze da promeni clana.
+Datum:Wed Dec 05 16:52:49 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:0, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem ne moze da obrise clana.
+Datum:Wed Dec 05 16:52:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:0, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem ne moze da promeni clana.
+Datum:Wed Dec 05 16:52:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:54, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:52:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:54, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 16:56:08 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:56:26 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:55, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:56:27 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:55, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 16:56:30 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:55, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.
+Datum:Wed Dec 05 16:56:32 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:56, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:56:33 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:56, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 16:56:34 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:56, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.
+Datum:Wed Dec 05 16:56:41 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:57, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:56:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:58, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 16:56:52 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:58, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 16:56:54 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:58, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.
+Datum:Wed Dec 05 16:57:01 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:57:01 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:57:07 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:20, 'sfsd', 'sdfsdfdsf', 'BackEnd', '2018-11-07' Poruka:Sistem je nasao prijacu clana.
+Datum:Wed Dec 05 16:57:07 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:20, 'sfsd', 'sdfsdfdsf', 'BackEnd', '2018-11-07' Poruka:Sistem je nasao prijacu clana.
+Datum:Wed Dec 05 16:58:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Datum:Wed Dec 05 16:58:50 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:1, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 17:00:24 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:1, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je nasao prijacu clana.
+Datum:Wed Dec 05 17:00:28 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:1, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je nasao prijacu clana.
+Datum:Wed Dec 05 17:00:28 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:1, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je nasao prijacu clana.
+Datum:Wed Dec 05 17:00:30 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:2, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 17:00:31 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:3, '', '', 'BackEnd', '2018-12-05' Poruka:Sistem je kreirao novog clana.
+Datum:Wed Dec 05 17:00:34 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:3, '2', '3', 'BackEnd', '2018-12-05' Poruka:Sistem je promenio clana.
+Datum:Wed Dec 05 17:00:35 CET 2018 Naziv operacije:zapamtiDomenskiObjekat
+Domenski objekat:3, '2', '3', 'BackEnd', '2018-12-05' Poruka:Sistem je obrisao clana.

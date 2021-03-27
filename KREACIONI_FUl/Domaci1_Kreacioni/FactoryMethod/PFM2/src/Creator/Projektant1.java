@@ -1,0 +1,40 @@
+/* Projektant1.java
+ * @autor  prof. dr Sinisa Vlajic,
+ * Univerzitet u Beogradu
+ * Fakultet organizacionih nauka 
+ * Katedra za softversko inzenjerstvo
+ * Laboratorija za softversko inzenjerstvo
+ * 06.11.2017
+ */
+
+package Creator;
+
+import AbstractProductA.*;
+import AbstractProductB.*;
+import AbstractProductC.*;
+
+// Promenljivo!!!
+public class Projektant1 extends Projektant {
+        
+    @Override
+    public EkranskaForma kreirajEkranskuFormu() {
+        Panel1_1 pan = new Panel1_1(); 
+        EkranskaForma2 pc = new EkranskaForma2(); 
+        pc.setPanel(pan);
+        return pc;
+    }   
+    
+    @Override
+    public BrokerBazePodataka kreirajBrokerBazePodataka () 
+      { BrokerBazePodataka dbbr = new BrokerBazePodataka2(); 
+        return dbbr;}  
+    
+    @Override
+    public Kontroler_a kreirajKontroler (EkranskaForma ef,BrokerBazePodataka dbbr) {
+        Kontroler_a kon = new Kontroler11(ef,dbbr); // Promenljivo!!!
+        return kon;
+    }
+        
+   
+}
+
